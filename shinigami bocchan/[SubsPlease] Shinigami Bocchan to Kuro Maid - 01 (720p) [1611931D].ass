@@ -6,34 +6,41 @@ ScriptType: v4.00+
 PlayDepth: 0
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-PlayResX: 640
-PlayResY: 360
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-Video Zoom Percent: 1.000000
-Video Position: 34787
+Audio File: [SubsPlease] Shinigami Bocchan to Kuro Maid - 01 (720p) [1611931D].mkv
+Video File: [SubsPlease] Shinigami Bocchan to Kuro Maid - 01 (720p) [1611931D].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.875000
+Scroll Position: 6
+Active Line: 15
+Video Position: 6252
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default,Roboto Medium,52,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,40,40,46,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:56.01,0:00:59.35,Default,,0,0,0,,Death incarnate, huh?
-Dialogue: 0,0:01:16.11,0:01:20.41,Default,,0,0,0,,Mother, Father, how are you faring?
-Dialogue: 0,0:01:25.21,0:01:28.00,Default,,0,0,0,,I remain, as always, a lost cause.
-Dialogue: 0,0:01:28.00,0:01:32.05,Default,,0,0,0,,This curse, which takes\Nthe life of anything I touch,
-Dialogue: 0,0:01:32.05,0:01:34.09,Default,,0,0,0,,shows no signs of breaking.
-Dialogue: 0,0:01:34.09,0:01:37.63,Default,,0,0,0,,My Lady, another animal\Ntouched the boy and...
-Dialogue: 0,0:01:37.63,0:01:40.97,Default,,0,0,0,,Living under the same roof\Nas him makes me livid with fear!
-Dialogue: 0,0:01:40.97,0:01:43.02,Default,,0,0,0,,Send him to our villa.
-Dialogue: 0,0:01:43.02,0:01:45.35,Default,,0,0,0,,That child is like Death incarnate...
-Dialogue: 0,0:01:47.06,0:01:51.40,Default,,0,0,0,,Why did the witch put this curse on me?
-Dialogue: 0,0:02:07.00,0:02:10.67,Default,,0,0,0,,There is something else that troubles me.
-Dialogue: 0,0:02:10.67,0:02:11.88,Default,,0,0,0,,And that is...
-Dialogue: 0,0:02:11.88,0:02:15.84,Default,,0,0,0,,Your Grace, your tea is ready.
-Dialogue: 0,0:02:15.84,0:02:17.09,Default,,0,0,0,,Don't stand so close to me!
-Dialogue: 0,0:03:47.01,0:03:50.93,Default,,0,0,0,,{\an8}"Episode 1: The Duke and Alice"
+Dialogue: 0,0:00:56.01,0:00:59.35,Default,,0,0,0,,{Death incarnate, huh?}Thần chết à??
+Dialogue: 0,0:01:16.11,0:01:20.41,Default,,0,0,0,,{Mother, Father, how are you faring?}Thưa bố, mẹ, chuyến đi của bố mẹ như thế nào?
+Dialogue: 0,0:01:25.21,0:01:28.00,Default,,0,0,0,,{I remain, as always, a lost cause.}Con vẫn thế, rất phiền toái
+Dialogue: 0,0:01:28.00,0:01:32.05,Default,,0,0,0,,{This curse, which takes\Nthe life of anything I touch,}cái lời nguyền có thể lấy đi sinh mạng của những gì con chạm vào này.
+Dialogue: 0,0:01:32.05,0:01:34.09,Default,,0,0,0,,{shows no signs of breaking.}Không có dâu hiệu rằng sẽ biến mất.
+Dialogue: 0,0:01:34.09,0:01:37.63,Default,,0,0,0,,{My Lady, another animal\Ntouched the boy and...}Thưa cô chủ, lại một con vật khác được cậu Bocchan chạm vào và...
+Dialogue: 0,0:01:37.63,0:01:40.97,Default,,0,0,0,,{Living under the same roof\Nas him makes me livid with fear!}Sống chung nhà với thằng bé này khiên ta chết lặng.
+Dialogue: 0,0:01:40.97,0:01:43.02,Default,,0,0,0,,{Send him to our villa.}Hãy gửi nó đếnh dinh thự.
+Dialogue: 0,0:01:43.02,0:01:45.35,Default,,0,0,0,,{That child is like Death incarnate...}Cứ như là đứa con của thần chết 
+Dialogue: 0,0:01:47.06,0:01:51.40,Default,,0,0,0,,{Why did the witch put this curse on me?}Tại sao phù thủy lại đặt lời nguyền này lên con?
+Dialogue: 0,0:02:07.00,0:02:10.67,Default,,0,0,0,,{There is something else that troubles me.}Có một sứ làm con phiền lòng ạ.
+Dialogue: 0,0:02:10.67,0:02:11.88,Default,,0,0,0,,{And that is...}và đó là....
+Dialogue: 0,0:02:11.88,0:02:15.84,Default,,0,0,0,,{Your Grace, your tea is ready.}bocchan, trà của ngài đã chuẩn bị xong rồi ạ.
+Dialogue: 0,0:02:15.84,0:02:17.09,Default,,0,0,0,,{Don't stand so close to me!}Gần quá đấy!
+Dialogue: 0,0:03:47.01,0:03:50.93,Default,,0,0,0,,{\an8}"Tập 1: Công tước and và Alice"
 Dialogue: 0,0:03:54.73,0:03:58.32,Default,,0,0,0,,Aren't you going to send that letter?
 Dialogue: 0,0:03:58.32,0:04:00.32,Default,,0,0,0,,I couldn't!
 Dialogue: 0,0:04:00.32,0:04:03.82,Default,,0,0,0,,I haven't written a letter in so long.
