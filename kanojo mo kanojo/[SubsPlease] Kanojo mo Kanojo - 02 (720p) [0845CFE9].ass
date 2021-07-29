@@ -20,10 +20,10 @@ Audio File: [SubsPlease] Kanojo mo Kanojo - 02 (720p) [0845CFE9].mkv
 Video File: [SubsPlease] Kanojo mo Kanojo - 02 (720p) [0845CFE9].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 344
-Active Line: 349
-Video Position: 23815
+Video Zoom Percent: 0.500000
+Scroll Position: 390
+Active Line: 407
+Video Position: 27712
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,8 +37,8 @@ Style: flashback italics,Roboto Medium,52,&H00FFFFFF,&H000000FF,&H00000000,&H000
 Style: flashbacktop,Roboto Medium,52,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,8,40,40,46,0
 Style: flashbackitalicstop,Roboto Medium,52,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2.6,0,8,40,40,46,0
 Style: sign_5658_74_Girlfriend__Girl,Verdana,80,&H00000100,&H000000FF,&H00FFFFFF,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,2,60,60,40,0
-Style: sign_7288_74_Episode_1,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&HC8000000,&HC8000000,-1,0,0,0,100,100,0,0,1,2,2,2,60,60,20,1
-Style: sign_7288_75__Even_If_That_Is,Trebuchet MS,40,&H00FFFFFF,&H000000FF,&HC8000000,&HC8000000,-1,0,0,0,100,100,0,0,1,2,2,1,60,60,40,1
+Style: sign_7288_74_Episode_1,Terminal,20,&H00FFFFFF,&H000000FF,&HC8000000,&HC8000000,-1,0,0,0,100,100,0,0,1,2,2,2,60,60,20,1
+Style: sign_7288_75__Even_If_That_Is,Terminal,40,&H00FFFFFF,&H000000FF,&HC8000000,&HC8000000,-1,0,0,0,100,100,0,0,1,2,2,1,60,60,40,1
 Style: sign_34813_424_Preview,Roboto Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,40,40,46,1
 Style: sign_34813_425_Episode_2,Terminal,20,&H00000000,&H000000FF,&HC8FFFFFF,&HC8FFFFFF,-1,0,0,0,100,100,0,0,1,2,2,2,60,60,40,1
 Style: sign_34813_426__How_Nagisa_Feel,Terminal,24,&H00000000,&H000000FF,&HC8FFFFFF,&HC8FFFFFF,-1,0,0,0,100,100,0,0,1,2,2,1,60,60,40,1
@@ -64,25 +64,25 @@ Style: editor_note,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.09,0:00:03.56,italics,Saki,0,0,0,,{I got a boyfriend recently.}Gần đây, mình có bạn trại.
 Dialogue: 0,0:00:04.20,0:00:08.00,italics,Saki,0,0,0,,{Naoya is way too proper, \Nand he can be a bit weird,}Naoya thẳng thừng đến kì lạ, nhưng
-Dialogue: 0,0:00:08.00,0:00:11.15,italics,Saki,0,0,0,,{but he really cherishes me.} anh ấy là người mà mình trân trọng nhất.
+Dialogue: 0,0:00:08.00,0:00:11.15,italics,Saki,0,0,0,,{but he really cherishes me.}Anh ấy là người mà mình trân trọng nhất.
 Dialogue: 0,0:00:11.94,0:00:13.78,italics,Saki,0,0,0,,{Or so I thought!}Nhưng đó chỉ là những gì mình nghĩ!
 Dialogue: 0,0:00:14.27,0:00:17.37,italics,Saki,0,0,0,,{Now he tells me that he wants to date this \Nother girl, Nagisa-chan, who confessed to him.}Giờ anh ta muốn hẹn hò với \N Nagisa-chan, người đã tỏ tình với anh ấy.
 Dialogue: 0,0:00:17.37,0:00:20.86,italics,Saki,0,0,0,,{That asshole declared that \Nhe wants to date both of us!}Thằng khốn đó còn tuyên bố rằng \N muốn bắt cá hai tay.
-Dialogue: 0,0:00:20.41,0:00:21.87,sign_490_7_The_Grovel,Text,0,0,0,,{\fad(193,1)}The Grovel
+Dialogue: 0,0:00:20.41,0:00:21.87,sign_490_7_The_Grovel,Text,0,0,0,,{\fad(193,1)}{The Grovel}Quỳ lạy
 Dialogue: 0,0:00:20.86,0:00:25.12,italics,Saki,0,0,0,,{And now the three of us are \Nliving together at his place!}Và ba bọn mình hiện đang sống chung ở nhà của Naoya
-Dialogue: 0,0:00:21.91,0:00:23.62,sign_526_8_The_Three_of_Us,Text,0,0,0,,{\fad(612,1)\pos(110,260)}The Three of Us
-Dialogue: 0,0:00:22.25,0:00:23.62,sign_526_8_The_Three_of_Us,Text,0,0,0,,{\c&HE6A3E3&\pos(110,330)\fad(773,1)}Living Together
+Dialogue: 0,0:00:21.91,0:00:23.62,sign_526_8_The_Three_of_Us,Text,0,0,0,,{\fad(612,1)\pos(110,260)}{The Three of Us}Ba người chúng tôi
+Dialogue: 0,0:00:22.25,0:00:23.62,sign_526_8_The_Three_of_Us,Text,0,0,0,,{\c&HE6A3E3&\pos(110,330)\fad(773,1)}{Living Together} sống cùng nhau. 
 Dialogue: 0,0:00:25.61,0:00:28.88,italics,Saki,0,0,0,,{What's going to happen to us?!}Chuyện gì quái sẽ diễn ra tiếp đây?
 Dialogue: 0,0:00:30.48,0:00:32.81,main,Saki,0,0,0,,{I don't think I can go through with this.}Chắc là sẽ không được quá.
 Dialogue: 0,0:00:32.81,0:00:36.34,main,Saki,0,0,0,,{There are way too many problems \Nwith him dating the two of us.}Chuyện bắt cá hai tay phiền phức làm sao!
-Dialogue: 0,0:00:36.83,0:00:39.22,italics,Saki,0,0,0,,{And my rival just has to be so...}Hơn thế nữa, tình địch của mình còn
+Dialogue: 0,0:00:36.83,0:00:39.22,italics,Saki,0,0,0,,{And my rival just has to be so...}Hơn thế nữa, tình địch của mình còn...
 Dialogue: 0,0:00:45.76,0:00:48.82,main,Saki,0,0,0,,{So cute and big-boobed and irresistible!}Dễ thương, đảm đang thế kia sao cưỡng lại được!
 Dialogue: 0,0:00:50.56,0:00:53.78,main,Saki,0,0,0,,{Why did a girl like her \Nhave to ask out Naoya?}Sao một cô bạn như thế lại \Nđi thổ lộ với Naoya kia chứ!
 Dialogue: 0,0:00:54.32,0:00:58.12,flashback,Naoya,0,0,0,,{I'd like to do it with both of you... \Nthe three of us, together!}Cùng Saki-chan và Minase-san, tớ muốn cả ba chúng ta cùng lên giường.
 Dialogue: 0,0:01:00.79,0:01:03.54,main,Saki,0,0,0,,{That pervert!}Cái đồ đực rựa
 Dialogue: 0,0:01:04.71,0:01:06.63,main,Saki,0,0,0,,{That guy!}biến thái!
 Dialogue: 0,0:01:08.21,0:01:10.72,main,Saki,0,0,0,,{Wait... Oh, right!}Hả... Ồ, đúng rồi!
-Dialogue: 0,0:01:10.72,0:01:14.22,main,Saki,0,0,0,,You must be sick of him now that \Nyou know what a freak he is!
+Dialogue: 0,0:01:10.72,0:01:14.22,main,Saki,0,0,0,,{You must be sick of him now that \Nyou know what a freak he is!}Nagisa-chan hẳn đã chán ghét sau khi biết \N Naoya là tên biến thái rồi đúng chứ?
 Dialogue: 0,0:01:15.11,0:01:22.28,main,Nagisa,0,0,0,,{If it's something Naoya-kun wants, \NI wouldn't mind a th-threesome.}Nếu như đó là điều mà Naoya-kun muốn.\N T-Tớ cũng không ngại chơi ba.
 Dialogue: 0,0:01:25.28,0:01:29.05,main,Saki,0,0,0,,{C-Cute, big-boobed, and horny as hell...}D-Dễ thương, đảm đang, còn dâm nữa.
 Dialogue: 0,0:01:29.05,0:01:30.73,main,Nagisa,0,0,0,,{H-Horny as hell?!}D-Dâm?!
@@ -90,12 +90,12 @@ Dialogue: 0,0:01:31.91,0:01:33.66,main,Saki,0,0,0,,{Even I want to be your girlf
 Dialogue: 0,0:01:33.66,0:01:34.36,main,Nagisa,0,0,0,,{Huh?}Hửm?
 Dialogue: 0,0:01:37.21,0:01:38.82,main,Nagisa,0,0,0,,Saki-san?
 Dialogue: 0,0:01:39.24,0:01:42.33,italics,Nagisa,0,0,0,,{No, I'm completely losing here.}Chẳng lẻ, {\b1}mình{\b0} hoàn toàn thua cô ta ư?
-Dialogue: 0,0:01:43.28,0:01:49.13,italics,Nagisa,0,0,0,,Naoya might lose interest in me \Nif Nagisa-chan seduced him.
-Dialogue: 0,0:02:02.42,0:02:04.95,main,Naoya,0,0,0,,{Hey, I set up our futons.}À, Tớ trải nệm ra rồi đấy.
+Dialogue: 0,0:01:43.28,0:01:49.13,italics,Nagisa,0,0,0,,{Naoya might lose interest in me \Nif Nagisa-chan seduced him.}Nếu Naoya bị Nagisa-chan quyến rủ, \N liệu người mình sẽ là người bị đá ra chăn?
+Dialogue: 0,0:02:02.42,0:02:04.95,main,Naoya,0,0,0,,{Hey, I set up our futons.}À, Anh trải nệm ra rồi đấy.
 Dialogue: 0,0:02:27.91,0:02:28.12,sign_5658_74_Girlfriend__Girl,,0,0,0,,{\pos(640,286)\fscy95}Girlfriend, Girlfriend
 Dialogue: 0,0:03:28.39,0:03:32.06,sign_5658_74_Girlfriend__Girl,,0,0,0,,{\pos(640,286)\fscy95\fad(2358,1)}Girlfriend, Girlfriend
-Dialogue: 0,0:03:36.02,0:03:38.78,sign_7288_74_Episode_1,,0,0,0,,{\pos(924,640)}Episode 2
-Dialogue: 0,0:03:36.02,0:03:38.78,sign_7288_75__Even_If_That_Is,,0,0,0,,{\pos(980,630)\fscx80}"How Nagisa Feels"
+Dialogue: 0,0:03:36.02,0:03:38.78,sign_7288_74_Episode_1,,0,0,0,,{\pos(924,640)}Tập 2
+Dialogue: 0,0:03:36.02,0:03:38.78,sign_7288_75__Even_If_That_Is,,0,0,0,,{\pos(980,630)\fscx80}{"How Nagisa Feels"}Cảm xúc của Nagisa.
 Dialogue: 0,0:03:39.73,0:03:43.24,main,Saki,0,0,0,,Wh-Wh-Why are there three futons lined up?!
 Dialogue: 0,0:03:43.24,0:03:47.45,main,Naoya,0,0,0,,{I thought we might be able to \Nget closer if we talked in bed.}Tại tớ nghĩ có một buổi nói chuyện trước khi ngủ sẽ giúp chúng ta hiểu nhau hơn.
 Dialogue: 0,0:03:48.35,0:03:50.76,main,Saki,0,0,0,,{Y-Y-You're going to try to pull \Nsomething naughty, aren't you?!}A-A-Anh tính làm chuyện đồi bại đúng không?
@@ -111,14 +111,14 @@ Dialogue: 0,0:04:10.60,0:04:11.85,italics,Saki,0,0,0,,{But...}Nhưng...
 Dialogue: 0,0:04:12.12,0:04:13.65,top,Naoya,0,0,0,,{Is it okay with you, Minase-san?}Thế này có ổn với em không, Minase-san?
 Dialogue: 0,0:04:12.12,0:04:15.20,italics,Saki,0,0,0,,{Nagisa-chan might be the \None to start something.}Nagisa-chan có thể sẽ là \Nngười bắt đầu trước.
 Dialogue: 0,0:04:13.65,0:04:16.81,top,,0,0,0,,{O-Of course. Yes.}Vâng, không sạo ạ.
-Dialogue: 0,0:04:15.20,0:04:16.81,italics,Saki,0,0,0,,{She's a total pervert.}Con đỉ mà lại!
-Dialogue: 0,0:04:16.86,0:04:21.94,sign_6159_47_Prevention,Text,0,0,0,,{Prevention}ngăn chặn
+Dialogue: 0,0:04:15.20,0:04:16.81,italics,Saki,0,0,0,,{She's a total pervert.}Cậu ta dâm lắm!
+Dialogue: 0,0:04:16.86,0:04:21.94,sign_6159_47_Prevention,Text,0,0,0,,{Prevention}Ngăn chặn
 Dialogue: 0,0:04:17.23,0:04:18.16,italics,Saki,0,0,0,,{Whatever!}Sao cũng được!
 Dialogue: 0,0:04:18.16,0:04:20.86,italics,Saki,0,0,0,,{I won't let them have their way!}Mình sẽ không để bọn họ \Nmuốn làm gì thì làm đâu!
 Dialogue: 0,0:04:22.39,0:04:24.73,italics,Saki,0,0,0,,{I'm going to watch them all night.}Mình sẽ theo dõi bọn họ cả đêm nay!
 Comment: 0,0:04:24.73,0:04:26.73,editor_note,,0,0,0,,Tin vào main đi chứ.....
 Dialogue: 0,0:04:27.92,0:04:29.11,main,Naoya,0,0,0,,Saki-chan...
-Dialogue: 0,0:04:30.59,0:04:34.38,main,Naoya,0,0,0,,{Thank you for putting up with my selfishness.}cảm ơn vì đã chịu đựng sự ích kỉ của anh.
+Dialogue: 0,0:04:30.59,0:04:34.38,main,Naoya,0,0,0,,{Thank you for putting up with my selfishness.}Anh rất biết ơn vì đã chịu đựng sự ích kỉ của anh.
 Dialogue: 0,0:04:35.44,0:04:36.67,main,Naoya,0,0,0,,Saki-chan?
 Dialogue: 0,0:04:37.24,0:04:39.85,main,Nagisa,0,0,0,,{She must be tired. Maybe she's fallen asleep.}Chắc cô ấy mệt và ngủ mất rồi nhỉ.
 Dialogue: 0,0:04:39.85,0:04:41.62,main,Nagisa,0,0,0,,{It was a busy day.}Nhiều chuyện xãy ra hôm nay mà.
@@ -130,22 +130,22 @@ Dialogue: 0,0:04:52.86,0:04:55.35,italics,Saki,0,0,0,,N-Nagisa!
 Dialogue: 0,0:04:55.35,0:04:56.20,main,Naoya,0,0,0,,Minase-san?
 Dialogue: 0,0:04:56.20,0:04:58.00,italics,Saki,0,0,0,,{You're going to do him already?!}Cô tính làm với anh ta thật hả?!
 Dialogue: 0,0:04:58.00,0:04:58.84,italics,Saki,0,0,0,,{Are you a slut?}Là đỉ thật hả?
-Dialogue: 0,0:04:58.00,0:04:58.84,editor_note,,0,0,0,,bichi nano, (bitch nano?)
+Comment: 0,0:04:58.00,0:04:58.84,editor_note,,0,0,0,,bichi nano, (bitch nano?)
 Dialogue: 0,0:04:58.84,0:05:00.61,italics,Saki,0,0,0,,{Is Nagisa a slut?!}Nagisa là đỉ thật hả?!{Nagisa isu bichi nano}
-Dialogue: 0,0:04:58.84,0:05:00.62,editor_note,,0,0,0,,Nagisa isu bichi nano(Nagisa is bitch nano)
+Comment: 0,0:04:58.84,0:05:00.62,editor_note,,0,0,0,,Nagisa isu bichi nano(Nagisa is bitch nano)
 Dialogue: 0,0:05:00.89,0:05:01.98,main,Naoya,0,0,0,,{I see.}Được thôi.
-Dialogue: 0,0:05:01.98,0:05:04.40,main,Naoya,0,0,0,,{You must be lonely, being here\N in an unfamiliar place.}ngủ ở một nơi lạ, chắc \Nem thấy cô đơn lắm nhỉ.
+Dialogue: 0,0:05:01.98,0:05:04.40,main,Naoya,0,0,0,,{You must be lonely, being here\N in an unfamiliar place.}Ngủ ở một nơi lạ, chắc \Nem thấy cô đơn lắm nhỉ.
 Dialogue: 0,0:05:04.40,0:05:06.73,main,Nagisa,0,0,0,,{I-I am.}V-Vâng ạ.
 Dialogue: 0,0:05:06.73,0:05:08.57,main,Naoya,0,0,0,,{Well? Is that better?}Như thế nào rồi? Khá hơn chưa?
 Dialogue: 0,0:05:11.46,0:05:13.33,italics,Saki,0,0,0,,{You adorable little slut!}Cái đồ đỉ dễ thương!
-Dialogue: 0,0:05:13.96,0:05:16.94,main,Nagisa,0,0,0,,{I can't believe I'm sleeping with \Nthe person I've always liked.}Được ngủ chung với Naoya-kun,người em yêu
+Dialogue: 0,0:05:13.96,0:05:16.94,main,Nagisa,0,0,0,,{I can't believe I'm sleeping with \Nthe person I've always liked.}Được ngủ chung với Naoya-kun,\N người trong mộng của em
 Dialogue: 0,0:05:16.94,0:05:18.01,main,Nagisa,0,0,0,,{It's like a dream.}Cứ như là mơ vậy.
 Dialogue: 0,0:05:18.01,0:05:20.41,italics,Saki,0,0,0,,{\b1}{"Sleeping with," in a dirty way, right?}"Ngủ chung với"{\b0}, theo nghĩa tối đúng không?
 Dialogue: 0,0:05:20.79,0:05:24.22,main,Nagisa,0,0,0,,{I'd like to get to know you \Na lot better, Naoya-kun.}Từ giờ, em muốn hiểu Naoya-kun hơn nữa.
 Dialogue: 0,0:05:24.22,0:05:25.92,italics,Saki,0,0,0,,{In a sexy way!}Theo nghĩa tối đúng chứ!
 Dialogue: 0,0:05:27.00,0:05:28.39,main,Naoya,0,0,0,,Minase-san...
 Dialogue: 0,0:05:29.46,0:05:32.35,main,Naoya,0,0,0,,{I want you to tell me more about you, too.}Anh cũng vậy, anh cũng muốn hiểu hơn về em, Minase-san.
-Dialogue: 0,0:05:32.35,0:05:34.99,italics,Saki,0,0,0,,In a sexy way, Naoya?!
+Dialogue: 0,0:05:32.35,0:05:34.99,italics,Saki,0,0,0,,{In a sexy way, Naoya?!}Theo nghĩa tối luôn đúng chứ, Naoya?
 Dialogue: 0,0:05:35.57,0:05:36.94,main,Nagisa,0,0,0,,Naoya-kun...
 Dialogue: 0,0:05:36.94,0:05:39.50,main,Nagisa,0,0,0,,{If you do that, I'll...}Nêu anh làm thế thì, em sẽ
 Dialogue: 0,0:05:39.50,0:05:41.36,italics,Saki,0,0,0,,{Is it her boobs? Are you squeezing her boobs?}Tại ngực sao? Anh ta đã bóp chúng chưa?
@@ -156,11 +156,11 @@ Dialogue: 0,0:05:48.42,0:05:49.95,main,Nagisa,0,0,0,,{I'm so happy.}Em rất h�
 Dialogue: 0,0:05:49.95,0:05:52.08,italics,Saki,0,0,0,,{Don't be happy about it!}Đừng hạnh phúc vì chuyện đó chứ!
 Dialogue: 0,0:05:52.60,0:05:54.79,main,Naoya,0,0,0,,{I wouldn't mind doing this forever.}Anh không phiền nếu làm như thế này mãi đâu.
 Dialogue: 0,0:05:57.20,0:05:59.63,italics,Saki,0,0,0,,{She's totally enjoying it!}Rõ ràng cô ta đang tận hưởng nó.
-Dialogue: 0,0:06:00.36,0:06:04.32,main,Nagisa,0,0,0,,{You're making me so happy.}Naoya-kun mà làm như thế nữa thì, em cảm thấy rất hạnh phúc
-Dialogue: 0,0:06:04.32,0:06:06.38,main,Nagisa,0,0,0,,{I'm going to lose my mind.}Em sẽ điên lên mất
+Dialogue: 0,0:06:00.36,0:06:04.32,main,Nagisa,0,0,0,,{You're making me so happy.}Naoya-kun mà làm như thế nữa thì, em cảm thấy rất hạnh phúc.
+Dialogue: 0,0:06:04.32,0:06:06.38,main,Nagisa,0,0,0,,{I'm going to lose my mind.}Em sẽ điên lên mất.
 Dialogue: 0,0:06:07.54,0:06:12.09,italics,Saki,0,0,0,,{Naoya hasn't done anything with me yet!}Naoya chưa làm gì với tôi hết mà!
 Dialogue: 0,0:06:13.24,0:06:15.64,main,Saki,0,0,0,,{You totally put it in!}Các người đã cho vào rồi đúng không?
-Dialogue: 0,0:06:15.64,0:06:16.64,main,Naoya,0,0,0,,{Put what in?}vào cài gì?
+Dialogue: 0,0:06:15.64,0:06:16.64,main,Naoya,0,0,0,,{Put what in?}Vào cài gì?
 Dialogue: 0,0:06:16.64,0:06:18.91,main,Saki,0,0,0,,{Naoya, you idiot! Idiot! Idiot!}Naoya, Đồ đần! đồ cặn bã! đồ sỡ khanh!
 Dialogue: 0,0:06:26.98,0:06:28.81,main,Saki,0,0,0,,{H-Huh?}A.. hả?
 Dialogue: 0,0:06:29.66,0:06:30.76,main,Saki,0,0,0,,{It's not in.}Không có vào.
@@ -173,7 +173,7 @@ Dialogue: 0,0:06:43.36,0:06:44.84,main,Saki,0,0,0,,Ý em là...
 Dialogue: 0,0:06:49.26,0:06:52.18,main,Saki,0,0,0,,{I'm going to put myself in your futon, too.}Em muốn vào trong chăn của Naoya.
 Dialogue: 0,0:06:52.77,0:06:54.00,italics,Saki,0,0,0,,{Kill me.}Giết tôi đi.
 Dialogue: 0,0:06:54.00,0:06:55.93,italics,Saki,0,0,0,,{Just kill me.}Ai đó giết tôi đi.
-Dialogue: 0,0:06:57.57,0:06:58.92,main,Naoya,0,0,0,,{Were you...}chẵng lẽ...
+Dialogue: 0,0:06:57.57,0:06:58.92,main,Naoya,0,0,0,,{Were you...}Chẵng lẽ...
 Dialogue: 0,0:07:00.74,0:07:03.23,main,Naoya,0,0,0,,{You must have been feeling lonely, too.}Saki-chan cũng cảm thấy cô đơn lắm nhỉ.
 Dialogue: 0,0:07:05.08,0:07:07.85,main,Saki,0,0,0,,{Y-Yes.}V-Vâng.
 Dialogue: 0,0:07:07.85,0:07:10.24,main,Naoya,0,0,0,,{You're cute when you act \Nlonely, too, Saki-chan.}Lúc Saki-chan cảm thấy cô đơn cũng đẽ thương nữa.
@@ -195,7 +195,7 @@ Dialogue: 0,0:07:36.85,0:07:42.44,italics,Nagisa,0,0,0,,{I never would have thou
 Dialogue: 0,0:07:42.93,0:07:44.58,main,Nagisa,0,0,0,,{This relationship...}Quan hệ này...
 Dialogue: 0,0:07:45.94,0:07:46.94,italics,Nagisa,0,0,0,,{It's great.}thật tuyệt.
 Dialogue: 0,0:07:47.40,0:07:50.41,italics,Nagisa,0,0,0,,{Sure, there are some things \Nabout it that aren't,}Chắc chắn rằng hẹn hò với hai người là điều không đúng. Nhưng
-Dialogue: 0,0:07:50.41,0:07:52.95,italics,,0,0,0,,{but I get to date my beloved Naoya-kun.}được hẹn hò với Naoya-kun yêu dấu
+Dialogue: 0,0:07:50.41,0:07:52.95,italics,,0,0,0,,{but I get to date my beloved Naoya-kun.}được hẹn hò với Naoya-kun yêu dấu.
 Dialogue: 0,0:07:52.95,0:07:55.93,italics,Nagisa,0,0,0,,{That outweighs all of it.}Và điều tốt đẹp đó là trên hết thảy.
 Dialogue: 0,0:07:56.41,0:07:58.80,italics,Nagisa,0,0,0,,{And we get to live under the same roof.}Với lại, Chúng tôi còn sống chung với nhau.
 Dialogue: 0,0:07:58.80,0:08:01.08,italics,Nagisa,0,0,0,,{We're even sleeping on the same futon.}Còn ngủ chung chăn với nữa.
@@ -203,9 +203,9 @@ Dialogue: 0,0:08:01.62,0:08:06.04,italics,Nagisa,0,0,0,,{But I don't think this 
 Dialogue: 0,0:08:06.43,0:08:09.67,italics,Nagisa,0,0,0,,{If Saki-san gets fed up with this arrangement,}Nếu Saki-san thẳng thừng từ chối việc hẹn hò chung.
 Dialogue: 0,0:08:09.67,0:08:12.79,italics,,0,0,0,,{I'm probably going to be \Nthe one who gets dumped.}Có thể mình đã bị từ chối.
 Dialogue: 0,0:08:13.44,0:08:16.97,italics,Nagisa,0,0,0,,{Still, if I work hard in \Nthe limited time I have,}Dù là vậy, nếu mình cố gắng hết sức trong thời gian này,
-Dialogue: 0,0:08:16.97,0:08:21.48,italics,,0,0,0,,{and I make myself indispensable to them...}Làm cho họ cảm thấy mình quan trọng thì
-Dialogue: 0,0:08:21.77,0:08:25.69,italics,Nagisa,0,0,0,,{I'll be able to enjoy this \Nhappiness for one day longer.}Mình sẽ được tận hưởng hạnh phúc này thêm một ngày nữa.
-Dialogue: 0,0:08:25.48,0:08:27.19,sign_12120_137_Mizuse_Nagisa_Is,Text,0,0,0,,{\pos(100,460)\fad(483,1)}{Mizuse Nagisa is modest}Minase Nagisa là khiêm tốn.
+Dialogue: 0,0:08:16.97,0:08:21.48,italics,,0,0,0,,{and I make myself indispensable to them...}cho họ thấy sự tồn tại của mình quan trọng dù chỉ một chút.
+Dialogue: 0,0:08:21.77,0:08:25.69,italics,Nagisa,0,0,0,,{I'll be able to enjoy this \Nhappiness for one day longer.}Được như vây sẽ kéo dài hạnh phúc này thêm một ngày nữa cũng được.
+Dialogue: 0,0:08:25.48,0:08:27.19,sign_12120_137_Mizuse_Nagisa_Is,Text,0,0,0,,{\pos(100,460)\fad(483,1)}{Mizuse Nagisa is modest}Minase Nagisa là người khiêm tốn.
 Dialogue: 0,0:08:34.20,0:08:38.15,italics,Nagisa,0,0,0,,{I might even become Naoya-kun's favorite.}Và rồi, có khi mình sẽ trở thành số một trong lòng của Naoya-kun.
 Dialogue: 0,0:08:38.72,0:08:40.54,italics,Nagisa,0,0,0,,{But how do I do that?}Nhưng phải làm thế nào đây?
 Dialogue: 0,0:08:45.87,0:08:48.42,italics,Nagisa,0,0,0,,{Naoya-kun and Saki-san's smartphones.}Điện thoại của Naoya-kun và Saki-san.
@@ -220,7 +220,7 @@ Dialogue: 0,0:09:09.32,0:09:12.55,italics,Nagisa,0,0,0,,{But I'm not emotionally
 Dialogue: 0,0:09:13.94,0:09:15.00,italics,Nagisa,0,0,0,,{Okay.}Vậy thì....
 Dialogue: 0,0:09:16.31,0:09:18.66,italics,Nagisa,0,0,0,,{I'll start with Saki-san's smartphone.}Bắt đầu với điện thoại của Saki-san vậy.
 Dialogue: 0,0:09:20.00,0:09:24.94,italics,Nagisa,0,0,0,,{I have to get to know Saki-san \Nin order to make this work.}Để quan hệ này được tiếp diễn, trên hết phải biết rõ về Saki-san đã.
-Dialogue: 0,0:09:26.83,0:09:29.42,italics,Nagisa,0,0,0,,{First, her browser history...}Đầu tiên là lịch sử duyệt web...
+Dialogue: 0,0:09:26.83,0:09:29.42,italics,Nagisa,0,0,0,,{First, her browser history...}Đầu tiên là lịch sử tìm kiếm...
 Dialogue: 0,0:09:30.71,0:09:41.43,sign_13684_153_Enter_search_ter,Text,0,0,0,,{\frz-21.41\move(200,260,200,-230)\fsp2}{Enter search terms or website address} nhập từ khóa hoặc địa chỉ cần tìm.
 Dialogue: 0,0:09:30.71,0:09:41.43,sign_13684_153_Enter_search_ter,Text,0,0,0,,{\frz-21.41\move(190,430,190,-70)\fs28}{Recent searches}tìm kiếm gần đây.
 Dialogue: 0,0:09:31.05,0:09:33.32,italics,Nagisa,0,0,0,,{"First time having sex when..."}"Lần đầu làm chuyện ấy khi nào..."
@@ -236,8 +236,8 @@ Dialogue: 0,0:09:47.64,0:09:50.22,italics,Nagisa,0,0,0,,{I'll take this secret t
 Dialogue: 0,0:09:48.15,0:09:51.11,sign_14102_164_tap_tap_tap,Text,0,0,0,,{\pos(420,40)\fad(1,437)}{tap tap tap tap tap tap tap tap tap tap tap tap tap tap tap tap}Chọt Chọt Chọt Chọt Chọt Chọt Chọt Chọt \N Chọt Chọt Chọt Chọt Chọt Chọt Chọt Chọt
 Dialogue: 0,0:09:52.40,0:09:53.73,sign_14204_166_10_Minutes_Later,Text,0,0,0,,{\move(1290,220,-1070,220)\fscx165\fscy165}{10 Minutes Later...}10 phút sau...
 Dialogue: 0,0:09:54.36,0:09:56.43,italics,Nagisa,0,0,0,,{Sh-She's...}Đây là....
-Dialogue: 0,0:09:56.43,0:10:00.12,italics,Nagisa,0,0,0,,{Saki-san's searches are \Nalmost all about sex stuff.}Saki-san chưa bao giờ tìm về chuyện đó cả.
-Dialogue: 0,0:10:00.64,0:10:05.28,italics,Nagisa,0,0,0,,{Every now and then, there are dogs and \Nsweets and game streams and stuff.}Từ trước đến nay,toàn tìm \N về chó, đồ ngọt, stream game.
+Dialogue: 0,0:09:56.43,0:10:00.12,italics,Nagisa,0,0,0,,{Saki-san's searches are \Nalmost all about sex stuff.}Saki-san chỉ toàn tìm về chuyện đó.
+Dialogue: 0,0:10:00.64,0:10:05.28,italics,Nagisa,0,0,0,,{Every now and then, there are dogs and \Nsweets and game streams and stuff.}Thi thoảng có tìm kiếm  \N về chó, đồ ngọt, và stream game.
 Dialogue: 0,0:10:03.16,0:10:07.08,sign_13684_153_Enter_search_ter,Text,0,0,0,,{\move(110,-40,-560,-40)\frz-34.42\fad(985,1)\fs38}{[Special] Pictures of the world's cutest Shiba Inu paws!}[SP]Những ảnh bàn chân của Shiba Inu đệ nhất dễ thương
 Dialogue: 0,0:10:05.28,0:10:08.07,italics,Nagisa,0,0,0,,{There's nothing useful in here.}Chả có gì tốt ở đây cả.
 Dialogue: 0,0:10:08.07,0:10:08.83,italics,Nagisa,0,0,0,,{Huh?}Hả.
@@ -259,14 +259,14 @@ Dialogue: 0,0:10:13.21,0:10:13.46,sign_13684_153_Enter_search_ter,Text,0,0,0,,{\
 Dialogue: 0,0:10:13.34,0:10:13.46,sign_13684_153_Enter_search_ter,Text,0,0,0,,{\b1\c&HAF8368&\fax0.2\fsp4\pos(-50,80)\frz10.98}Tweets
 Dialogue: 0,0:10:14.56,0:10:15.84,italics,Saki,0,0,0,,{You suck, Naoya!}Naoya, Đồ ngốc!
 Dialogue: 0,0:10:15.84,0:10:17.39,italics,Saki,0,0,0,,{I can't believe you want to date two girls!}Không thể tin rằng anh ấy dám bắt cá hai tay!
-Dialogue: 0,0:10:17.39,0:10:18.64,italics,Saki,0,0,0,,{I hope your dick rots off!}LIệt dương luôn đi!
+Dialogue: 0,0:10:17.39,0:10:18.64,italics,Saki,0,0,0,,{I hope your dick rots off!}Liệt dương luôn đi!
 Dialogue: 0,0:10:18.64,0:10:20.24,italics,Nagisa,0,0,0,,{She's definitely angry.}Cô ta hẵn rất dận.
-Dialogue: 0,0:10:20.24,0:10:22.36,italics,Saki,0,0,0,,{No, that would be a problem...}Không, đó không phải là vấn đề...
-Dialogue: 0,0:10:22.36,0:10:23.76,italics,Saki,0,0,0,,{Maybe not that...}Chắc chuyện đó sẽ không được đâu...
-Dialogue: 0,0:10:23.76,0:10:25.60,italics,Nagisa,0,0,0,,She's talking about sex again!
+Dialogue: 0,0:10:20.24,0:10:22.36,italics,Saki,0,0,0,,{No, that would be a problem...}Không, nếu liệt luôn thì hơi phiền.
+Dialogue: 0,0:10:22.36,0:10:23.76,italics,Saki,0,0,0,,{Maybe not that...}Chuyện đó không nên xảy ra.
+Dialogue: 0,0:10:23.76,0:10:25.60,italics,Nagisa,0,0,0,,{She's talking about sex again!}Lại nói về chuyện ấy tiếp!
 Dialogue: 0,0:10:28.03,0:10:29.84,italics,Nagisa,0,0,0,,{She queeted about me.}Về mình ư?
 Dialogue: 0,0:10:29.84,0:10:31.84,italics,Saki,0,0,0,,{Nagisa-chan's too cute.}Nagisa-chan quả là rất dễ thương.
-Dialogue: 0,0:10:31.84,0:10:34.94,italics,Saki,0,0,0,,{I really don't want her to be \Nthe girl I share a guy with...}Tui thật sự không muốn chia sẽ bạn trai với cô ta
+Dialogue: 0,0:10:31.84,0:10:34.94,italics,Saki,0,0,0,,{I really don't want her to be \Nthe girl I share a guy with...}Tui thật sự không muốn chia sẽ bạn trai với cô ta.
 Dialogue: 0,0:10:35.86,0:10:37.29,italics,Saki,0,0,0,,{But...}Nhưng mà
 Dialogue: 0,0:10:37.29,0:10:40.92,italics,Saki,0,0,0,,{She's such a good girl, and she's cute...}Cổ một người tốt, còn dễ thương nữa.
 Dialogue: 0,0:10:41.89,0:10:46.15,italics,Saki,0,0,0,,{I think I'd like to get \Nclose to her... maybe...}Nếu thân được với cô ta thì tốt biết mấy... Có thể...
@@ -281,12 +281,12 @@ Dialogue: 0,0:11:08.66,0:11:11.23,main,Nagisa,0,0,0,,{I was going through Saki-s
 Dialogue: 0,0:11:11.23,0:11:12.89,main,Nagisa,0,0,0,,{Her search history and stuff.}Lịch sử tìm kiếm và nhiều thứ khác.
 Dialogue: 0,0:11:12.89,0:11:14.48,main,Naoya,0,0,0,,Điện thoại của Saki-chan?
 Dialogue: 0,0:11:18.87,0:11:21.51,main,Saki,0,0,0,,Hử?  Naoya? Nagisa-chan?
-Dialogue: 0,0:11:23.64,0:11:25.20,main,Saki,0,0,0,,{What are you two up to?}hai người đang tính làm gì vậy?
+Dialogue: 0,0:11:23.64,0:11:25.20,main,Saki,0,0,0,,{What are you two up to?}Hai người đang tính làm gì vậy?
 Dialogue: 0,0:11:26.31,0:11:28.70,main,Saki,0,0,0,,{Huh? Is that my phone?}Hả? Đó là điện thoại của tớ?
 Dialogue: 0,0:11:30.71,0:11:33.53,main,Nagisa,0,0,0,,{U-Um, it's...} Hu... Ư-Ưm.
 Dialogue: 0,0:11:33.53,0:11:35.22,main,Nagisa,0,0,0,,{This is... I was...}Đây là... Tớ đã...
 Dialogue: 0,0:11:40.46,0:11:41.80,main,Nagisa,0,0,0,,{I was...}Tớ đã...
-Dialogue: 0,0:11:42.33,0:11:45.70,main,Naoya,0,0,0,,{I looked through your search history!}Tớ đã lỡ nhìn trộm lịch sử tìm kiếm của Saki-chan.
+Dialogue: 0,0:11:42.33,0:11:45.70,main,Naoya,0,0,0,,{I looked through your search history!}Anh đã lỡ nhìn trộm lịch sử tìm kiếm của Saki-chan.
 Dialogue: 0,0:11:47.75,0:11:49.27,main,Saki,0,0,0,,{Huh?}Hả?
 Dialogue: 0,0:11:51.48,0:11:55.52,sign_17059_224_First_time_havin,Text,0,0,0,,{\fad(356,473)}First time having sex when
 Dialogue: 0,0:11:52.10,0:11:55.52,sign_17059_224_First_time_havin,Text,0,0,0,,{\an9\fad(356,473)}First time having sex how
@@ -295,20 +295,21 @@ Dialogue: 0,0:11:53.10,0:11:55.52,sign_17059_224_First_time_havin,Text,0,0,0,,{\
 Dialogue: 0,0:11:53.60,0:11:55.52,sign_17059_224_First_time_havin,Text,0,0,0,,{\an1\fad(355,475)\pos(720,560)}High school percentage sex
 Dialogue: 0,0:11:54.10,0:11:55.52,sign_17059_224_First_time_havin,Text,0,0,0,,{\an6\fad(355,475)}How to get boyfriend\N in the mood
 Dialogue: 0,0:11:57.39,0:11:58.67,main,Saki,0,0,0,,{I-I-I-It's not what you think!}K-K-Không phải đâu!
-Dialogue: 0,0:11:58.67,0:12:01.87,main,Saki,0,0,0,,My friend kept griping that \Nshe hasn't done it yet, so I...
+Dialogue: 0,0:11:58.67,0:12:01.87,main,Saki,0,0,0,,{My friend kept griping that \Nshe hasn't done it yet, so I...}Chỉ là tụi bạn rỉ tai em "còn chưa làm nửa hả",\N"sướng lắm đó" cho nên mới...
+Comment: 0,0:11:58.72,0:12:01.87,editor_note,,0,0,0,,donna chigau "mada shitenaino" toka "shugoi teru"toka sorede
 Dialogue: 0,0:12:01.87,0:12:02.95,main,Naoya,0,0,0,,{I'm really sorry!}Anh thật sự xin lỗi!
-Dialogue: 0,0:12:02.95,0:12:06.20,main,Naoya,0,0,0,,{I mean... I-I don't really know \Nwhat you're into, but...}Ý anh là... A-Anh thật sự không biết em đang ở trong tình huốn như thế nào....
+Dialogue: 0,0:12:02.95,0:12:06.20,main,Naoya,0,0,0,,{I mean... I-I don't really know \Nwhat you're into, but...}Ý anh là... A-Anh thật sự không biết em đang ở trong tình huống như thế nào....
 Dialogue: 0,0:12:06.20,0:12:07.78,main,Saki,0,0,0,,{It's not what you think! I swear!}Đã bảo là không phải rồi mà...
 Dialogue: 0,0:12:07.78,0:12:10.51,main,Naoya,0,0,0,,{I think it's all right, \Nwhatever you're interested in!}Anh nghĩ rằng, Saki-chan thích cái gì anh cũng bằng lòng!
 Dialogue: 0,0:12:10.51,0:12:13.13,main,Saki,0,0,0,,{J-Just kill me!}Tha cho em đi mà!
 Dialogue: 0,0:12:13.13,0:12:15.17,main,Saki,0,0,0,,{What are you trying to accomplish, Naoya?!}Anh đang có mục đích gì đấy Naoya?!
 Dialogue: 0,0:12:15.17,0:12:16.01,main,Naoya,0,0,0,,{I, uh...}À thì....
 Dialogue: 0,0:12:16.01,0:12:18.80,main,Naoya,0,0,0,,{I just wanted to learn about you more!}Anh muốn hiểu thêm về Saki-chan hơn nữa.
-Dialogue: 0,0:12:18.80,0:12:21.05,main,Naoya,0,0,0,,{I promise I'll accept you \Nfor whomever you might be!}Dù Saki-chan là người như thế nào đi nữa! \N Anh sẽ luôn chấp nhận
+Dialogue: 0,0:12:18.80,0:12:21.05,main,Naoya,0,0,0,,{I promise I'll accept you \Nfor whomever you might be!}Dù Saki-chan là người như thế nào đi nữa! \N Anh sẽ luôn chấp nhận.
 Dialogue: 0,0:12:21.05,0:12:24.51,main,Saki,0,0,0,,{Just forget it all!}Quên nó đi mà!
 Dialogue: 0,0:12:27.11,0:12:28.26,main,Nagisa,0,0,0,,Naoya-kun!
-Dialogue: 0,0:12:32.14,0:12:34.25,main,Nagisa,0,0,0,,{A-Are you all right?}Có sao không ạ??
-Dialogue: 0,0:12:36.08,0:12:38.60,main,Saki,0,0,0,,{I'm going to sleep to try to forget it, too.}Em sẽ ngủ lại để quên hết sự kiện này.
+Dialogue: 0,0:12:32.14,0:12:34.25,main,Nagisa,0,0,0,,{A-Are you all right?}Có sao không ạ?
+Dialogue: 0,0:12:36.08,0:12:38.60,main,Saki,0,0,0,,{I'm going to sleep to try to forget it, too.}Em sẽ ngủ lại để quên hết sự đời.
 Dialogue: 0,0:12:39.36,0:12:42.16,main,Nagisa,0,0,0,,{I'm sorry. It was my fault.}Em xin lỗi, do em mà anh lại...
 Dialogue: 0,0:12:42.16,0:12:43.11,main,Naoya,0,0,0,,{It's fine.}Ổn thôi.
 Dialogue: 0,0:12:44.10,0:12:49.02,main,Naoya,0,0,0,,{I get that you wanted to look because you \Nwere worried about me dating two girls.}Anh hiểu rằng do việc bắt cá hai tay\N mà em xem điện thoại
@@ -388,9 +389,9 @@ Dialogue: 0,0:15:28.92,0:15:31.00,main,Nagisa,0,0,0,,{N-No, I...}Kh-Không phả
 Dialogue: 0,0:15:31.65,0:15:33.53,main,Nagisa,0,0,0,,{I-I'm going to the bathroom.}E-Em đi vệ sinh một chút.
 Dialogue: 0,0:15:40.34,0:15:42.28,italics,Nagisa,0,0,0,,{I don't get any of it.}Không hiểu sất gì cả!
 Dialogue: 0,0:15:43.92,0:15:46.73,italics,Nagisa,0,0,0,,{He's going to think I'm stupid.}Anh ấy sẽ nghĩ mình là một con ngốc mất.
-Dialogue: 0,0:15:46.73,0:15:48.90,italics,Nagisa,0,0,0,,He'll lose even more faith in me.
-Dialogue: 0,0:15:49.63,0:15:54.14,sign_14102_164_tap_tap_tap,Text,0,0,0,,{\an7\3c&HFFFF31&\bord8}tap tap tap tap tap tap tap
-Dialogue: 0,0:15:49.63,0:15:54.14,sign_14102_164_tap_tap_tap,Text,0,0,0,,{\an9\3c&HFFFF31&\bord8}tap tap tap tap tap tap tap tap tap
+Dialogue: 0,0:15:46.73,0:15:48.90,italics,Nagisa,0,0,0,,{He'll lose even more faith in me.}
+Dialogue: 0,0:15:49.63,0:15:54.14,sign_14102_164_tap_tap_tap,Text,0,0,0,,{\an7\3c&HFFFF31&\bord8}chọt chọt chọt
+Dialogue: 0,0:15:49.63,0:15:54.14,sign_14102_164_tap_tap_tap,Text,0,0,0,,{\an9\3c&HFFFF31&\bord8}chọt chọt chọt chọt
 Dialogue: 0,0:15:50.00,0:15:54.14,italics,Nagisa,0,0,0,,{I-I need to use this time \Nto find out how to solve it!}Tóm lại, mình cần phải xài thời gian\N  này để tìm cách giải nó.
 Dialogue: 0,0:15:54.30,0:15:57.35,sign_10501_112_5_Minutes_Later_,Text,0,0,0,,{\an2\3c&HF6F9F6&\pos(640,480)\fad(862,862)}30 {Minutes Later...} phút sau...
 Dialogue: 0,0:15:59.38,0:16:01.43,main,Naoya,0,0,0,,{Do you think she's sick?}Có khi nào em ấy bị cảm không?
@@ -411,36 +412,36 @@ Dialogue: 0,0:16:25.96,0:16:28.04,top,Naoya,0,0,0,,{Are you okay, though? Minase
 Dialogue: 0,0:16:25.96,0:16:31.05,italics,Nagisa,0,0,0,,{But I don't want Naoya-kun \Nto think I'm stupid.}Nhưng mình không muốn Naoya-kun \Nnghĩ mình là một con ngốc.
 Dialogue: 0,0:16:28.73,0:16:29.69,top,Saki,0,0,0,,{Seriously!}Thật tình!
 Dialogue: 0,0:16:29.69,0:16:30.84,top,Naoya,0,0,0,,{But...}Nhưng mà...
-Dialogue: 0,0:16:33.27,0:16:36.33,main,Nagisa,0,0,0,,I-I'm just really backed up!
-Dialogue: 0,0:16:40.90,0:16:42.73,main,Saki,0,0,0,,Naoya, you...
-Dialogue: 0,0:16:42.73,0:16:43.89,main,Naoya,0,0,0,,S-Sorry...
-Dialogue: 0,0:16:44.63,0:16:46.60,main,Naoya,0,0,0,,I'm really sorry!
-Dialogue: 0,0:16:46.60,0:16:48.40,main,Nagisa,0,0,0,,N-No, it's okay.
-Dialogue: 0,0:16:50.72,0:16:56.91,italics,Nagisa,0,0,0,,I think I protected my reputation, \Nbut I feel like I've lost something else.
-Dialogue: 0,0:16:57.40,0:16:58.62,main,Nagisa,0,0,0,,But...
-Dialogue: 0,0:17:00.57,0:17:04.75,italics,Nagisa,0,0,0,,I'm going to overcome this, especially \Nnow that I have to redeem myself!
-Dialogue: 0,0:17:05.48,0:17:09.07,italics,Nagisa,0,0,0,,I want to look good in Naoya-kun's eyes.
-Dialogue: 0,0:17:09.07,0:17:11.45,italics,Nagisa,0,0,0,,I want him to like me, \Neven just a little more.
-Dialogue: 0,0:17:12.55,0:17:15.34,italics,Nagisa,0,0,0,,I want to stay with him, \Neven just a little longer.
-Dialogue: 0,0:17:16.96,0:17:18.22,main,Nagisa,0,0,0,,I got it!
+Dialogue: 0,0:16:33.27,0:16:36.33,main,Nagisa,0,0,0,,{I-I'm just really backed up!}E-em vừa mới xã xong!
+Dialogue: 0,0:16:40.90,0:16:42.73,main,Saki,0,0,0,,{Naoya, you...}Naoya, thiệt tình...
+Dialogue: 0,0:16:42.73,0:16:43.89,main,Naoya,0,0,0,,{S-Sorry...}X-Xin lỗi...
+Dialogue: 0,0:16:44.63,0:16:46.60,main,Naoya,0,0,0,,{I'm really sorry!}Anh thật sự xin lỗi.
+Dialogue: 0,0:16:46.60,0:16:48.40,main,Nagisa,0,0,0,,{N-No, it's okay.}K-Không sao cả mà...
+Dialogue: 0,0:16:50.72,0:16:56.91,italics,Nagisa,0,0,0,,{I think I protected my reputation, \Nbut I feel like I've lost something else.}MÌnh nghĩ mình đã giữ được thể diện.\N Nhưng mình có cảm giác mình mất một thứ gì đó khác.
+Dialogue: 0,0:16:57.40,0:16:58.62,main,Nagisa,0,0,0,,{But...}Dù có vậy...
+Dialogue: 0,0:17:00.57,0:17:04.75,italics,Nagisa,0,0,0,,{I'm going to overcome this, especially \Nnow that I have to redeem myself!}MÌnh phải vượt qua chuyện này để lấy lại những gì đã mất.
+Dialogue: 0,0:17:05.48,0:17:09.07,italics,Nagisa,0,0,0,,{I want to look good in Naoya-kun's eyes.}Chí ít thì phải cho anh ấy thấy rằng mình không tệ
+Dialogue: 0,0:17:09.07,0:17:11.45,italics,Nagisa,0,0,0,,{I want him to like me, \Neven just a little more.}Mình muốn anh ấy yêu mình thêm chút nữa.
+Dialogue: 0,0:17:12.55,0:17:15.34,italics,Nagisa,0,0,0,,{I want to stay with him, \Neven just a little longer.}Mình muốn được ở gần anh ây lâu hơn nữa.
+Dialogue: 0,0:17:16.96,0:17:18.22,main,Nagisa,0,0,0,,{I got it!}Mình hiểu rồi!
 Dialogue: 0,0:17:20.56,0:17:21.43,main,Nagisa,0,0,0,,Naoya-kun!
 Dialogue: 0,0:17:21.99,0:17:23.08,main,Naoya,0,0,0,,Minase-san...
-Dialogue: 0,0:17:23.08,0:17:24.60,main,Naoya,0,0,0,,I'm really sorry.
-Dialogue: 0,0:17:24.60,0:17:26.98,main,Nagisa,0,0,0,,D-Don't worry about it.
-Dialogue: 0,0:17:27.65,0:17:30.90,main,Nagisa,0,0,0,,So, factoring, right?
-Dialogue: 0,0:17:31.24,0:17:32.48,main,Nagisa,0,0,0,,Um...
-Dialogue: 0,0:17:32.48,0:17:34.61,main,Nagisa,0,0,0,,It's like this, and...
-Dialogue: 0,0:17:35.56,0:17:36.46,main,Nagisa,0,0,0,,There!
-Dialogue: 0,0:17:36.46,0:17:38.03,main,Nagisa,0,0,0,,Of course I can do it.
-Dialogue: 0,0:17:43.03,0:17:44.50,main,Naoya,0,0,0,,You got it wrong.
-Dialogue: 0,0:17:46.34,0:17:48.47,main,,0,0,0,,Huh?
-Dialogue: 0,0:17:49.01,0:17:50.24,main,Naoya,0,0,0,,Don't worry!
-Dialogue: 0,0:17:50.24,0:17:51.96,main,Naoya,0,0,0,,Everyone's bad at something.
-Dialogue: 0,0:17:52.66,0:17:54.67,main,Naoya,0,0,0,,You don't have to worry about it.
-Dialogue: 0,0:17:55.11,0:17:57.98,main,Naoya,0,0,0,,I'll stick with you for as \Nmany hours as it takes.
+Dialogue: 0,0:17:23.08,0:17:24.60,main,Naoya,0,0,0,,{I'm really sorry.}Xin lỗi chuyện khi nảy.
+Dialogue: 0,0:17:24.60,0:17:26.98,main,Nagisa,0,0,0,,{D-Don't worry about it.}Kh-Không cần lo đâu ạ!
+Dialogue: 0,0:17:27.65,0:17:30.90,main,Nagisa,0,0,0,,{So, factoring, right?}Về bài tập, bài toán phân tích nhân tử đúng chứ?
+Dialogue: 0,0:17:31.24,0:17:32.48,main,Nagisa,0,0,0,,{Um...}À thì...
+Dialogue: 0,0:17:32.48,0:17:34.61,main,Nagisa,0,0,0,,{It's like this, and...}như thế này và...
+Dialogue: 0,0:17:35.56,0:17:36.46,main,Nagisa,0,0,0,,{There!}Xong rồi!
+Dialogue: 0,0:17:36.46,0:17:38.03,main,Nagisa,0,0,0,,{Of course I can do it.}Quả nhiên là rất đơn giản. 
+Dialogue: 0,0:17:43.03,0:17:44.50,main,Naoya,0,0,0,,{You got it wrong.}Em làm sai mất rồi.
+Dialogue: 0,0:17:46.34,0:17:48.47,main,,0,0,0,,{Huh?}Ơ, sao lại...
+Dialogue: 0,0:17:49.01,0:17:50.24,main,Naoya,0,0,0,,{Don't worry!}Không sao hết!
+Dialogue: 0,0:17:50.24,0:17:51.96,main,Naoya,0,0,0,,{Everyone's bad at something.}Mọi người đều có thứ mà họ không giỏi.
+Dialogue: 0,0:17:52.66,0:17:54.67,main,Naoya,0,0,0,,{You don't have to worry about it.}Em không cần phải lo về chuyện đó.
+Dialogue: 0,0:17:55.11,0:17:57.98,main,Naoya,0,0,0,,{I'll stick with you for as \Nmany hours as it takes.}Cho đến khi em giải được!\N Có bao nhiêu tiếng đi nữa anh vẫn sẽ kèm!
 Dialogue: 0,0:17:58.61,0:18:01.02,main,Nagisa,0,0,0,,N-Naoya-kun...
-Dialogue: 0,0:18:03.68,0:18:04.58,main,Nagisa,0,0,0,,But...
-Dialogue: 0,0:18:05.28,0:18:09.10,main,Nagisa,0,0,0,,It's not that I'm bad at it!
+Dialogue: 0,0:18:03.68,0:18:04.58,main,Nagisa,0,0,0,,{But...}Nhưng mà...
+Dialogue: 0,0:18:05.28,0:18:09.10,main,Nagisa,0,0,0,,{It's not that I'm bad at it!}Em không có giốt đến vậy!
 Dialogue: 0,0:18:10.77,0:18:13.82,sign_10501_112_5_Minutes_Later_,Text,0,0,0,,{\an2\3c&HF6F9F6&\pos(640,480)\fad(862,862)}{3-Hour Bathroom Break...} 3 tiếng trôi qua ...
 Dialogue: 0,0:18:14.98,0:18:18.99,sign_10598_114_Saki_s_Sleepover,Text,0,0,0,,{\an7\fs26\pos(1070,90)}{I hadn't studied\Nat all after the\Nentrance exams}Mình Không\N học gì từ lúc \Nthi vào trường.
 Dialogue: 0,0:18:14.98,0:18:18.99,sign_10598_114_Saki_s_Sleepover,Text,0,0,0,,{\fs16\pos(346,480)}{I thought\N I was\N screwed...}Tưởng đã \N xong rồi chứ?
@@ -495,7 +496,7 @@ Dialogue: 0,0:20:16.79,0:20:19.72,main,Saki,0,0,0,,{Wh-What were you about to sa
 Dialogue: 0,0:20:19.72,0:20:21.85,main,Naoya,0,0,0,,{D-Don't stop me.}Đ-Đừng cảng anh.
 Dialogue: 0,0:20:21.85,0:20:24.91,main,Naoya,0,0,0,,{This lie is only going to hurt Minase-san!}Giấu diếm chuyện này chỉ làm khổ cho Minase-san thôi!
 Dialogue: 0,0:20:25.76,0:20:28.03,main,Naoya,0,0,0,,{We and Minase-san are...}Minase-san và chúng tớ đang...
-Dialogue: 0,0:20:28.92,0:20:31.04,main,Saki,0,0,0,,{Who is she?!}Cô ta là ai thế?! 
+Dialogue: 0,0:20:28.92,0:20:31.04,main,Saki,0,0,0,,{Who is she?!}Cô ta là ai thế?!
 Dialogue: 0,0:20:31.04,0:20:33.80,main,Naoya,0,0,0,,{We aren't strangers!}Bọn-tớ-quen-cậu-ta.
 Dialogue: 0,0:20:34.87,0:20:36.29,main,Naoya,0,0,0,,{We live to—}Bọn tớ sống ....
 Dialogue: 0,0:20:44.21,0:20:46.47,main,Saki,0,0,0,,{I told you to keep it a secret!}Em đã bảo là không được nói ra rồi mà...
